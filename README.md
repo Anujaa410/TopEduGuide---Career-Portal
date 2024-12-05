@@ -1,4 +1,3 @@
-TopEduGuide
 TopEduGuide is a comprehensive platform designed to simplify job searching and career development in the education sector. Whether you are an aspiring educator, administrator, or support staff, TopEduGuide provides tools and resources to connect you with the right opportunities.
 
 Features
@@ -19,8 +18,7 @@ Personalized profiles for job seekers and employers.
 Save favorite job listings and set up job alerts.
 
 Usage
-For Job Seekers:
-
+1. For Job Seekers:
 Sign up and create a profile.
 Search and apply for jobs.
 Save your favorite jobs for later.
